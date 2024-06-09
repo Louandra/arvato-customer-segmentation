@@ -17,7 +17,7 @@ The data used in the project was provided by Arvato and Udacity
 
 ## Results
 - Clustering model: The chosen clustering model produced 5 clusters where the customer base was overrepresented in custers 0 and 2.
-- Prediction model: A GBM model was used. The final prediction model produced a recall of 0.24 and and a accuracy of 0.83.
+- Prediction model: A GBM model was used. The final prediction model produced a recall of 0.22 and and a accuracy of 0.83.
 
 The results are detailed in this blog post: https://medium.com/@a.louandra/udacity-arvato-customer-segmentation-fed89156afe7
 
