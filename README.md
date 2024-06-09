@@ -16,13 +16,20 @@ Arvato Project Notebook - Jupyter notebook containing project code.
 The data used in the project was provided by Arvato and Udacity
 
 ## Results
-- Clustering model
-- Prediction model
+- Clustering model: The chosen clustering model produced 5 clusters where the customer base was overrepresented in custers 0 and 2.
+- Prediction model: A GBM model was used. The final prediction model produced a recall of 0.24 and and a accuracy of 0.83.
+
+The results are detailed in this blog post: https://medium.com/@a.louandra/udacity-arvato-customer-segmentation-fed89156afe7
+
+## Future work
+Other model tuning and feature engineering approaches need to be attempted in order to improve the results
 
 ## Acknowledgements
 - Bertelsmann/Arvato
 - https://umap-learn.readthedocs.io/en/latest/clustering.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
 - https://stats.stackexchange.com/questions/22569/pca-and-proportion-of-variance-explained
+
+  
 
 
